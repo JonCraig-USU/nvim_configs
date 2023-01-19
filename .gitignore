@@ -1,2 +1,2 @@
 # attempting to exclude compiled files
-./plugin/*
+plugin/packer_compiled.lua
